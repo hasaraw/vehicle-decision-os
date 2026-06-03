@@ -1196,7 +1196,7 @@ textarea:focus,
   }
 
   .vehicle-score-grid {
-    grid-template-columns: repeat(3, minmax(270px, 82vw));
+    grid-template-columns: 1fr;
   }
 
   .leader-metrics,
